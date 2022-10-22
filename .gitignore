@@ -4,11 +4,11 @@
 /server/node_modules
 /youtube/node_modules
 
-/youtube/.pnp
+/.pnp
 .pnp.js
 
 # testing
-/youtube/coverage
+/coverage
 
 # next.js
 /youtube/.next/
